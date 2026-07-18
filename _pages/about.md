@@ -1,71 +1,53 @@
 ---
 layout: about
 title: about
-nav_order: 1
 permalink: /
-description: Assistant Professor, Mechanical and Industrial Eng, New Jersey Institute of Technology (NJIT) 
-
-subtitle: >
-  Principal Investigator and Director,
-  <a href="https://gradslab.github.io/lab-website/">GRaDS Lab</a><br>
-  Assistant Professor, Mechanical and Industrial Engineering<br>
-  Ph.D., University of Waterloo, Canada
-
+subtitle: NSERC Postdoctoral Fellow at York University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>253 Fenster Hall</p>
-    <p>323 Dr Martin Luther King Jr Blvd </p>
-    <p>Newark, NJ 07103</p>
-    <p><a href="https://people.njit.edu/profile/aa3696">NJIT faculty profile</a></p>
+    <p>York University</p>
+    <p>Toronto, Ontario, Canada</p>
 
-news: true  # includes a list of news items
-
-
+selected_papers: true
+social: true
 announcements:
   enabled: true
-  scrollable: true
-  limit: 10
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+latest_posts:
+  enabled: false
 ---
 
 ***
 
-I am an Assistant Professor in the Department of Mechanical and Industrial Engineering [(MIE)](https://mie.njit.edu/) at the New Jersey Institute of Technology [(NJIT)](https://www.njit.edu/), where I lead the [GRaDS Lab](https://gradslab.github.io/lab-website/).
+I am an NSERC Postdoctoral Fellow in the [Department of Electrical Engineering and Computer Science](https://lassonde.yorku.ca/eecs/) at [York University](https://www.yorku.ca/), Canada, working with [Professor Hina Tabassum](https://lassonde.yorku.ca/users/hina). I also collaborate with [Professor H. Vincent Poor](https://ece.princeton.edu/people/h-vincent-poor) at [Princeton University](https://www.princeton.edu/) and [Professor Adeel Akhtar](https://people.njit.edu/profile/aa3696) at the [New Jersey Institute of Technology](https://www.njit.edu/).
 
-My research lies at the intersection of nonlinear control, geometric mechanics, robotics, optimization, and learning-based control. I develop theoretically grounded methods for the analysis and control of dynamical systems evolving on nonlinear spaces, with applications to aerial robots, mobile robots, multi-agent systems, and safety-critical autonomous systems.
+I received my Ph.D. in [Electrical and Computer Engineering](https://ece.kaust.edu.sa/) from [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en), where I was advised by [Professor Mohamed-Slim Alouini](https://www.kaust.edu.sa/en/study/faculty/mohamed-slim-alouini) and co-advised by [Dr. Sajid Ahmed](https://cemse.kaust.edu.sa/profiles/sajid-ahmed). My doctoral research focused on signal design techniques for multiple-input multiple-output dual-function radar-communication systems.
 
-A central theme of my work is the design of controllers and algorithms that provide rigorous guarantees—such as stability, safety, robustness, path invariance, and convergence—while remaining implementable on robotic platforms.
+***
+
+### Awards and Distinctions
+
+* **NSERC Postdoctoral Fellowship (2025–2027):** Ranked **first** in Canada.
+* **Fulbright Ph.D. Scholarship (2017):** Awarded for doctoral studies at the Georgia Institute of Technology, USA. (**Declined**)
+* **Two Gold Medals (Prime Minister’s and President’s Gold Medal):** Awarded in recognition of exceptional academic achievement, including the President’s Gold Medal for Best Student of the Year at the NUST College of Electrical and Mechanical Engineering.
+* **Austrian Academy of Sciences Doctoral Fellowship (2017):** Awarded and declined in favor of the Fulbright Ph.D. Scholarship.
+
 
 ***
 
 ## Research Interests
 
-- **Nonlinear and geometric control:** coordinate-free analysis and control of dynamical systems evolving on manifolds and Lie groups.
-- **Hybrid and safety-critical control:** hybrid feedback, control barrier functions, robust stabilization, and provably safe autonomy.
-- **Robotics and autonomous systems:** path following, path invariance, fault-tolerant UAV control, mobile robots, and multi-agent coordination.
-- **Learning, optimization, and stochastic control:** neural Lyapunov methods, geometric optimization, and stochastic control on nonlinear spaces.
+- Integrated sensing and communication (ISAC) systems
+- MIMO radar beampattern and waveform design for radar-centric ISAC
+- Detection- and inference-aware ISAC performance characterization
+- Statistical signal processing and probabilistic modeling
+- Mixed-field, cell-free, and distributed ISAC systems
+- ISAC–control co-design for autonomous and cooperative systems
 
-I am always interested in working with motivated students who are excited about control theory, robotics, optimization, and autonomous systems.
-
-
-***
-
-
-####  PhD positions
-We currently do not have any open positions.
-
-<!--
-🌟 **Exciting Opportunity for PhD Students in Controls and Robotics!** 🌟
-
-I am thrilled to announce the opening of positions for 1-2 PhD students to join my newly established lab at NJIT! 🚀 If you have a passion for nonlinear, geometric, and hybrid controls, and are eager to explore their applications in robotics and drones, this could be the perfect opportunity for you!
-
-#To apply, simply submit your application to NJIT MIE department. Additionally, feel free to reach out to me via email at *adeel.uwaterloo [at] gmail [dot] com* to express your interest or ask any questions.
--->
+My current research examines how sensing reliability, estimation accuracy, communication performance, and control objectives can be modeled and optimized jointly in next-generation wireless systems.
 
 ***
 

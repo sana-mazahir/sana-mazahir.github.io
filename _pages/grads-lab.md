@@ -3,7 +3,7 @@ layout: page
 title: GRaDS-Lab
 permalink: /grads-lab/
 description: Redirecting to GRADS Lab projects.
-nav: true
+nav: false
 nav_order: 4
 ---
 

@@ -3,7 +3,7 @@ layout: profiles
 permalink: /group/
 title: Research Group
 description: Members of the research group.
-nav: true
+nav: false
 nav_order: 2
 
 profiles:

@@ -1,9 +1,11 @@
 ---
 layout: cv
-title: CV
 permalink: /cv/
+title: CV
 nav: true
-nav_order: 6
-cv_pdf:
-description: Short academic CV.
+nav_order: 3
+cv_format: jsonresume
+description: Academic curriculum vitae of Sana Mazahir.
+toc:
+  sidebar: left
 ---
